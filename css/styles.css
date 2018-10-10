@@ -1,0 +1,48 @@
+body {
+	background-color: DodgerBlue;
+}
+h1 {
+	color: blue;
+	font-family: verdana;
+	font-size: 300%;
+}
+p {
+	color: white;
+	font-family: courier;
+	font-size: 160%;
+	//border: 1px solid powderblue;
+	padding: 30px;
+	margin: 100px;
+}
+
+#p01 {
+	color: blue;
+}	
+
+p.error {
+	color: red;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
