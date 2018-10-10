@@ -1,0 +1,35 @@
+1. koncept
+2. nuvarande system JavaScript
+3. 
+
+Editor - parsing of question database sheet - Javascript
+
+improve and complete doctor's interface for inputing sytoms and undersokningar
+
+new way to autoformat journal text. The anamnesis is now formated in one way by the doctors, and the redone by the programmers. Better if the doctors scripts can go immediately into the anamnesis.
+
+
+interna verktyg - verktyg för läkarna att interagera 
+
+saker till det riktiga programmet - mock-up
+
+breda koncept inför framtiden
+
+
+
+Ta fram en mock-up för hur man ska använda bilder som svarsalternativ.
+
+Hur massproducerar man bilder för programmet - 3D-modell i Unity
+
+Göra ett javascript som man kan registrera positioner för var man klickar på en kropp.
+
+bygga ett framework för hur bilderna skulle kunna hanteras i en webläsare.
+'frameworket för hur man registrer information om bilderna ska vara välgenomtänkt
+-hur hanterar man att någon zoomar in? Hur registrerar man att det är samma zon som är markerad.
+
+
+STEG 1: W3-schools HTML CSS
+
+STEG 2: versionhantering
+
+
